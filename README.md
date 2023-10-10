@@ -1,4 +1,6 @@
-![GIF](./assets/cyberpunk-float.gif)
+<img align="center" alt="Coding-banner" width="1200" src="https://www.tumblr.com/idekimjusthere/730836052898709504?source=share">
+
+https://www.tumblr.com/idekimjusthere/730836052898709504?source=share
 
 <h1 align="center">Hi there, I'm Carlos Vega 🐱‍👤</h1>
 <h3 align="center">
