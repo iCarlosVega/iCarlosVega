@@ -1,14 +1,9 @@
+
+
 <h1 align="center">Hi there, I'm Carlos Vega 🐱‍👤</h1>
 <h3 align="center">
     I'm a computer science undergraduate at Queens College. I strive to dive into the depths of ML and AI to its fullest level but also be accustomed to as many technologies available just to grasp an understanding of how our technological world works.
 </h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.leetcode.com/cvthegreat" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cvthegreat" height="30" width="40" />
-    </a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
