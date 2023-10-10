@@ -1,4 +1,5 @@
-<img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/796ce6f73060e014906765dffc8d6fa3/65991814d151d701-71/s640x960/1190c4df4394574766f058c67874b4145cb7908a.webp">
+<img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/1e899af06c93318dce29ebd2e8d00fd1/3f2698f3bac0544d-5b/s640x960/149f8b72e5491bcaba10bddc790bc4f3313d58a6.gifv">
+
 <h1 align="center">Hi there, I'm Carlos Vega 🐱‍👤</h1>
 <h3 align="center">
     I'm a computer science undergraduate at Queens College. I strive to dive into the depths of ML and AI to its fullest level but also be accustomed to as many technologies available just to grasp an understanding of how our technological world works.
