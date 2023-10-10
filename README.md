@@ -1,4 +1,4 @@
-
+![GIF](./assets/cyberpunk-float.gif)
 
 <h1 align="center">Hi there, I'm Carlos Vega 🐱‍👤</h1>
 <h3 align="center">
