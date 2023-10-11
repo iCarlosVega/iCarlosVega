@@ -1,4 +1,4 @@
-<img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/1e899af06c93318dce29ebd2e8d00fd1/3f2698f3bac0544d-5b/s640x960/149f8b72e5491bcaba10bddc790bc4f3313d58a6.gifv">
+<img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv">
 
 <h1 align="center">Hi there, I'm Carlos Vega 🐱‍👤</h1>
 <h3 align="center">
