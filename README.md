@@ -1,30 +1,21 @@
-<h1 align="center">Hi there, I'm Carlos Vega 🐱‍👤</h1>
+## 👋 Hi there, I'm Carlos!
 
-<img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv">
+I'm a full-stack software engineer based in NYC focused on data-intensive applications.
 
-<h3 align="center">
-    I'm a computer science undergraduate at Queens College. Currently Im furthering my skills in the application of existing AI technologies.
-</h3>
+## 🔧 Technologies & Tools
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</p>
+**📝 Languages:** Python, JavaScript/TypeScript, Golang   
+**🛠️ Frameworks:** Next.js, FastAPI, GraphQL   
+**💾 Databases:** PostgreSQL, Redis   
+**☁️ Cloud & DevOps:** AWS, Docker   
+**⚙️ Other:** PyTorch, Pandas, NumPy   
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-</p>
+## 💡 Featured Projects
+
+### 🏎️ Overtake.fyi - *Formula 1 Analytics Dashboard*
+Overtake.fyi is a comprehensive, data-intensive analytics platform I architected and developed to provide deep insights into Formula 1 racing. 
+I engineered this end-to-end solution, from the data pipeline and backend API to the interactive user-facing dashboard.
+> Tools used: Python, TypeScript, FastAPI, PostgreSQL, Next.js, React, Pydantic, JWT authentication
+
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-vega-lemus)
