@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Carlos!
 
-I'm a full-stack software engineer based in NYC focused on data-intensive applications and AI solutions.
+I'm a full-stack software engineer based in NYC focused on data-intensive applications and AI solutions. When I'm not shipping code, I'm usually keeping up with Formula 1 — race replays, podcasts, and the occasional 5am alarm when a Grand Prix is live. *#CadillacDesdeLaCuna* 🏁
 
 ## 🔧 Technologies & Tools
 
