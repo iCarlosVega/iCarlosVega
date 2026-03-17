@@ -27,7 +27,7 @@ I'm a full-stack software engineer based in NYC with a background in Mathematics
 
 ### 🚀 Featured Projects
 
-* **[Overtake.fyi](https://github.com/iCarlosVega/overtake)** - A comprehensive, data-intensive analytics platform providing deep insights into Formula 1 racing. Engineered end-to-end from the data pipeline to the interactive dashboard. *(Python, TypeScript, FastAPI, PostgreSQL, Next.js, Pydantic)*
+* **[Overtake.fyi](https://www.overtake.fyi)** - A comprehensive, data-intensive analytics platform providing deep insights into Formula 1 racing. Engineered end-to-end from the data pipeline to the interactive dashboard. *(Python, TypeScript, FastAPI, PostgreSQL, Next.js, Pydantic)*
 * **Cognitus** - A local dashboard currently in development for visualizing, mapping, and tracking progress on academic AI research papers. 
 * **AI Admissions Assistant** - An automated assistant built during a hackathon to streamline and assist with admissions queries. *(Azure AI Studio, Next.js, Flask)*
 * **[Apartment Price Prediction Model](https://github.com/iCarlosVega/apartment-pricing)** - An ML model that accurately predicts housing sale prices using complex, real-world datasets from 2016-2017. *(scikit-learn, Pandas, NumPy)*
