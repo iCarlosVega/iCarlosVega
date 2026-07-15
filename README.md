@@ -25,7 +25,7 @@ I'm a full-stack software engineer based in NYC with a background in Mathematics
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **[SAM Segmentation for LichtFeld Studio](https://github.com/iCarlosVega/sam-segmentation)** - An open-source plugin for [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio), a native 3D Gaussian Splatting workstation. Combines GroundingDINO
   and SAM 2 to turn a text prompt into propagated segmentation masks across a scene, enabling mask-aware training directly in the app. *(Python, PyTorch, GroundingDINO, SAM 2)*
@@ -36,7 +36,7 @@ I'm a full-stack software engineer based in NYC with a background in Mathematics
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iCarlosVega&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Carlos's GitHub Stats" width="48%" />
@@ -45,7 +45,7 @@ I'm a full-stack software engineer based in NYC with a background in Mathematics
 
 ---
 
-### ⚡ Currently...
+### Currently...
 
 - 🔭 **Building:** Continuing to expand overtake and its capabilities.
 - 🗣️ **Learning:** French.
