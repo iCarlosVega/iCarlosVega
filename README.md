@@ -14,12 +14,12 @@ I'm a full-stack software engineer based in NYC with a background in Mathematics
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,go,react,nextjs,fastapi,graphql&perline=8" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,graphql&perline=8" alt="Languages and Frameworks" />
   </a>
   <br />
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,aws,docker,pytorch,sklearn,linux,git&perline=8" alt="Databases, Cloud, and ML" />
+    <img src="https://skillicons.dev/icons?i=postgres,aws,docker,pytorch,sklearn,linux,git&perline=8" alt="Databases, Cloud, and ML" />
   </a>
 </div>
 
