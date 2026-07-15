@@ -27,6 +27,8 @@ I'm a full-stack software engineer based in NYC with a background in Mathematics
 
 ### 🚀 Featured Projects
 
+* **[SAM Segmentation for LichtFeld Studio](https://github.com/iCarlosVega/sam-segmentation)** - An open-source plugin for [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio), a native 3D Gaussian Splatting workstation. Combines GroundingDINO
+  and SAM 2 to turn a text prompt into propagated segmentation masks across a scene, enabling mask-aware training directly in the app. *(Python, PyTorch, GroundingDINO, SAM 2)*
 * **[Overtake.fyi](https://www.overtake.fyi)** - A comprehensive, data-intensive analytics platform providing deep insights into Formula 1 racing. Engineered end-to-end from the data pipeline to the interactive dashboard. *(Python, TypeScript, FastAPI, PostgreSQL, Next.js, Pydantic)*
 * **Cognitus** - A local dashboard currently in development for visualizing, mapping, and tracking progress on academic AI research papers. 
 * **AI Admissions Assistant** - An automated assistant built during a hackathon to streamline and assist with admissions queries. *(Azure AI Studio, Next.js, Flask)*
